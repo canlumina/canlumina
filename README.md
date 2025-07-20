@@ -1,14 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-<!-- 动态打字效果 -->
-
-<div align="center">
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=printf(%22Hello%2C%20World%22);&center=true&size=27" />
-  </div>
-</div>
-
+<h1 align="center">Hi 👋, I'm Ythlee </h1> 
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ythlee.
+# 💫 About Me:
 
 <div id="title" align=center>
 
@@ -29,4 +23,4 @@
 <!-- 或者使用 GIF 版本 -->
 ![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/ocean.gif)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ythlee.
+
