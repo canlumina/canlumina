@@ -20,12 +20,12 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
-![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ythlee_YC/Ythlee_YC/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 或者使用深色主题版本 -->
-![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Ythlee_YC/Ythlee_YC/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- 或者使用 GIF 版本 -->
-![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/ocean.gif)
+![Snake animation](https://github.com/Ythlee_YC/Ythlee_YC/blob/output/ocean.gif)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ythlee.
