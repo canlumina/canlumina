@@ -1,3 +1,12 @@
+<!-- 动态打字效果 -->
+
+<div align="center">
+  <div>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=printf(%22Hello%2C%20World%22);&center=true&size=27" />
+  </div>
+</div>
+
+
 <div id="title" align=center>
 
 ![Modern C++ template][github-sub-title:img]
@@ -11,5 +20,6 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
+
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ythlee.
