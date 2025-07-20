@@ -13,17 +13,28 @@
 - 🔭 I’m currently working on MCU development and Linux development.
 - 🌱 Besides，I am also interested in the front and back ends.
 
-## 💻 Tech Stack:
+#  💻 Tech Stack:
 
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=c,c++,python,go,html,css,javascript,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,go,html,css,javascript,git,bash,linux&perline=11" />
 </a>
-
 </div>
 
+# 📊 GitHub Stats:
 
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnath0904&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnath0904&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnath0904&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnath0904&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=somnath0904&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath0904&theme=radical">
+
+</div><br>
 
 <!-- 或者使用浅色主题版本 -->
 ![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/github-contribution-grid-snake.svg)
