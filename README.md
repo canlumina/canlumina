@@ -21,8 +21,8 @@
 
 </div>
 
-<!-- 或者使用深色主题版本 -->
-![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- 或者使用浅色主题版本 -->
+![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 或者使用 GIF 版本 -->
 ![Snake animation](https://github.com/Ythlee-YC/Ythlee-YC/blob/output/ocean.gif)
