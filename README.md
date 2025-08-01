@@ -8,11 +8,11 @@
 #  💫 About Me:
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-
-🎓 I'm an Embedded Developer.
-🔭 I'm currently working on MCU development and Linux development.
-🌱 Besides，I am also interested in the front and back ends.
-
+<ul>
+<li>🎓 I'm an Embedded Developer.</li>
+<li>🔭 I'm currently working on MCU development and Linux development.</li>
+<li>🌱 Besides，I am also interested in the front and back ends.</li>
+</ul>
 <br clear="right">
 </div>
 
