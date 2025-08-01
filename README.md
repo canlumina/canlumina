@@ -4,14 +4,17 @@
 
 <br>
 
-<div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-</div>
 
 #  💫 About Me:
-- 🎓 I'm an Embedded Developer.
-- 🔭 I’m currently working on MCU development and Linux development.
-- 🌱 Besides，I am also interested in the front and back ends.
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+
+🎓 I'm an Embedded Developer.
+🔭 I'm currently working on MCU development and Linux development.
+🌱 Besides，I am also interested in the front and back ends.
+
+<br clear="right">
+</div>
 
 #  💻 Tech Stack:
 
