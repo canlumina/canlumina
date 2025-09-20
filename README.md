@@ -36,7 +36,6 @@
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=canlumina&theme=radical">
 
 </div><br>
-
 <!-- 或者使用浅色主题版本 -->
 ![Snake animation](https://github.com/canlumina/canlumina/blob/output/github-contribution-grid-snake.svg)
 
