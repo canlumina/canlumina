@@ -25,7 +25,6 @@
 
 # 📊 GitHub Stats:
 
-
 <div align="center">
 
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canlumina&theme=radical">
