@@ -41,5 +41,4 @@
 <!-- 或者使用 GIF 版本 -->
 ![Snake animation](https://github.com/canlumina/canlumina/blob/output/ocean.gif)
 
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ythlee.
