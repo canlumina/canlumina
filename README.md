@@ -33,7 +33,6 @@
 </div><br>
 
 
-
 <!-- 或者使用浅色主题版本 -->
 ![Snake animation](https://github.com/canlumina/canlumina/blob/output/github-contribution-grid-snake.svg)
 
