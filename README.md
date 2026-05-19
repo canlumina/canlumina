@@ -4,7 +4,7 @@
 
 #  💫 About Me:
 <div>
-<video src="https://github.com/user-attachments/assets/9d991b3f-6e1f-4912-9933-65766e875497" align="right" width="340" autoplay loop muted playsinline></video>
+<img align="right" src="./assets/canlumina.gif" alt="Profile Image" width="340" />
 <ul>
 <li>🎓 I'm an Embedded Developer.</li>
 <li>🔭 I'm currently working on MCU development and Linux development.</li>
