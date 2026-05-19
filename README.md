@@ -4,9 +4,7 @@
 
 #  💫 About Me:
 <div>
-<video align="right" width="340" autoplay loop muted playsinline>
-  <source src="./assets/canlumina.mp4" type="video/mp4">
-</video>
+<video src="https://github.com/user-attachments/assets/9d991b3f-6e1f-4912-9933-65766e875497" align="right" width="340" autoplay loop muted playsinline></video>
 <ul>
 <li>🎓 I'm an Embedded Developer.</li>
 <li>🔭 I'm currently working on MCU development and Linux development.</li>
