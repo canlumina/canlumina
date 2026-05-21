@@ -53,15 +53,14 @@
 | **[inventory-management-system](https://github.com/canlumina/inventory-management-system)** | 现代化进销存管理系统 | Vue 3 · FastAPI |
 
 ## 📊 GitHub Stats
-<div align="center">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canlumina&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=canlumina&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canlumina&theme=radical">
-<br>
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canlumina&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats-six-inky-77.vercel.app/api?username=canlumina&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://streak-stats.demolab.com?user=canlumina&theme=radical&hide_border=false">
-</div>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canlumina&theme=radical" />
+</p>
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=canlumina&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canlumina&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canlumina&theme=radical&utcOffset=8" />
+</p>
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/canlumina/canlumina/blob/output/github-contribution-grid-snake.svg)
