@@ -25,13 +25,11 @@
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canlumina&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=canlumina&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canlumina&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canlumina&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canlumina&theme=radical&utcOffset=8"> 
-<!-- <img height="166em" src="https://github-readme-stats-six-inky-77.vercel.app/api?username=canlumina&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
+<br>
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canlumina&theme=radical&utcOffset=8">
 <img height="166em" src="https://github-readme-stats-six-inky-77.vercel.app/api?username=canlumina&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=canlumina&theme=radical">
-
-</div><br>
+</div>
 
 
 <!-- 或者使用浅色主题版本 -->
