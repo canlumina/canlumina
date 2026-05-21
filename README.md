@@ -47,18 +47,18 @@
 
 <p align="center">
   <a href="https://github.com/canlumina/Oscilloscope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=canlumina&repo=Oscilloscope&theme=radical" />
+    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=Oscilloscope&theme=radical" />
   </a>
   <a href="https://github.com/canlumina/OpenLoad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=canlumina&repo=OpenLoad&theme=radical" />
+    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=OpenLoad&theme=radical" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/canlumina/ota_server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=canlumina&repo=ota_server&theme=radical" />
+    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=ota_server&theme=radical" />
   </a>
   <a href="https://github.com/canlumina/ota_client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=canlumina&repo=ota_client&theme=radical" />
+    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=ota_client&theme=radical" />
   </a>
 </p>
 
