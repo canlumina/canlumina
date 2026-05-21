@@ -1,26 +1,58 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center">Hi 👋, I'm canlumina </h1> 
+<h1 align="center">Hi 👋, I'm canlumina</h1>
+<p align="center">
+  <i>Embedded engineer working on MCU firmware &amp; exploring Linux kernel drivers.</i>
+</p>
 
-#  💫 About Me:
+---
+
+## 💫 About Me
 <div>
-<img align="right" src="./assets/canlumina.gif" alt="Profile Image" width="340" />
+<img align="right" src="./assets/canlumina.gif" alt="Profile Image" width="320" />
 <ul>
-<li>🎓 I'm an Embedded Developer.</li>
-<li>🔭 I'm currently working on MCU development and Linux development.</li>
-<li>🌱 Besides，I am also interested in the front and back ends.</li>
+<li>🔧 Embedded developer — STM32 (HAL / LL / CMSIS / register-level), FreeRTOS, bare-metal</li>
+<li>📚 Currently learning Linux kernel &amp; device drivers</li>
+<li>🌐 Also enjoy full-stack side projects (Vue 3 + FastAPI / Go)</li>
+<li>⚡ Daily drivers: Windows 11 + WSL2, Keil MDK, VS Code</li>
 </ul>
 <br clear="right">
 </div>
 
-#  💻 Tech Stack:
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,git,cmake,bash,linux&perline=11" />
-</a>
-</div>
+## 💻 Tech Stack
 
-# 📊 GitHub Stats:
+**Languages**
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
+
+**Embedded & Tools**
+
+<p>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/FreeRTOS-006400?style=for-the-badge&logo=freebsd&logoColor=white" />
+<img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/Keil-D12028?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| **[Oscilloscope](https://github.com/canlumina/Oscilloscope)** | STM32F103ZET6 双通道简易示波器，ADC + DMA 高速采集 | C · STM32 · HAL |
+| **[OpenLoad](https://github.com/canlumina/OpenLoad)** | 通用 MCU Bootloader 定制方案，支持自定义启动流程 | C · STM32 · Bootloader |
+| **[ota_server](https://github.com/canlumina/ota_server)** | STM32 OTA 固件管理系统，前后端分离 + XOR / AES-128 / AES-256 加密 | Python · FastAPI · Vue |
+| **[inventory-management-system](https://github.com/canlumina/inventory-management-system)** | 现代化进销存管理系统 | Vue 3 · FastAPI |
+
+## 📊 GitHub Stats
 <div align="center">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canlumina&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=canlumina&theme=radical">
@@ -28,14 +60,8 @@
 <br>
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canlumina&theme=radical&utcOffset=8">
 <img height="166em" src="https://github-readme-stats-six-inky-77.vercel.app/api?username=canlumina&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=canlumina&theme=radical">
+<img height="166em" src="https://streak-stats.demolab.com?user=canlumina&theme=radical&hide_border=false">
 </div>
 
-
-<!-- 或者使用浅色主题版本 -->
+## 🐍 Contribution Snake
 ![Snake animation](https://github.com/canlumina/canlumina/blob/output/github-contribution-grid-snake.svg)
-
-<!-- 或者使用 GIF 版本 -->
-![Snake animation](https://github.com/canlumina/canlumina/blob/output/ocean.gif)
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ythlee.
