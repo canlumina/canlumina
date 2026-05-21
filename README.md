@@ -8,7 +8,7 @@
 <ul>
 <li>🎓 I'm an Embedded Developer.</li>
 <li>🔭 I'm currently working on MCU development and Linux development.</li>
-<li>🌱 Besides, I am also interested in the front and back ends.</li>
+<li>🌱 Besides，I am also interested in the front and back ends.</li>
 </ul>
 <br clear="right">
 </div>
@@ -26,8 +26,18 @@
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=canlumina&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canlumina&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canlumina&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canlumina&theme=radical&utcOffset=8">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canlumina&theme=radical&utcOffset=8"> 
+<!-- <img height="166em" src="https://github-readme-stats-six-inky-77.vercel.app/api?username=canlumina&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
 <img height="166em" src="https://github-readme-stats-six-inky-77.vercel.app/api?username=canlumina&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=canlumina&theme=radical">
 
-</div>
+</div><br>
+
+
+<!-- 或者使用浅色主题版本 -->
+![Snake animation](https://github.com/canlumina/canlumina/blob/output/github-contribution-grid-snake.svg)
+
+<!-- 或者使用 GIF 版本 -->
+![Snake animation](https://github.com/canlumina/canlumina/blob/output/ocean.gif)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ythlee.
