@@ -45,22 +45,12 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/canlumina/Oscilloscope">
-    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=Oscilloscope&theme=radical" />
-  </a>
-  <a href="https://github.com/canlumina/OpenLoad">
-    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=OpenLoad&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/canlumina/ota_server">
-    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=ota_server&theme=radical" />
-  </a>
-  <a href="https://github.com/canlumina/ota_client">
-    <img src="https://github-readme-stats-six-inky-77.vercel.app/api/pin/?username=canlumina&repo=ota_client&theme=radical" />
-  </a>
-</p>
+| Project | Description | Tech |
+| --- | --- | --- |
+| **[Oscilloscope](https://github.com/canlumina/Oscilloscope)** | STM32F103ZET6 双通道简易示波器，ADC + DMA 高速采集 | C · STM32 · HAL |
+| **[OpenLoad](https://github.com/canlumina/OpenLoad)** | 通用 MCU Bootloader 定制方案，支持自定义启动流程 | C · STM32 · Bootloader |
+| **[ota_server](https://github.com/canlumina/ota_server)** | STM32 OTA 固件管理系统，前后端分离 + XOR / AES-128 / AES-256 加密 | Python · FastAPI · Vue |
+| **[ota_client](https://github.com/canlumina/ota_client)** | STM32 OTA 客户端，QML 桌面端固件下发工具 | QML · Qt |
 
 ## 📊 GitHub Stats
 <p align="center">
